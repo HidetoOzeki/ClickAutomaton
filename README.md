@@ -1,0 +1,2 @@
+# ClickAutomaton
+Automated mouse clicks
